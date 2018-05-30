@@ -1,6 +1,6 @@
 # vue-music
 
-> 一个关于音乐的应用
+> 网上看到的vue音乐项目,觉得还不错的
 
 ## Build Setup
 
